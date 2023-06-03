@@ -66,5 +66,5 @@ Contributions are welcome! If you'd like to contribute to the Educa project, ple
 Contact
 For any questions, feedback, or support regarding Educa, feel free to reach out:
 
-Email: your-email@example.com
+Email: sawantaryan16@gmail.com
 GitHub: LaxmansAryan
