@@ -1,8 +1,8 @@
- ## Educa
+# EDUCA
 Educa is a Django project aimed at building an e-learning platform with a custom content management system (CMS). This platform provides a flexible and comprehensive solution for online learning, allowing users to create, manage, and deliver educational content.
 
 
-# Features
+## Features
 - Custom Content Management System (CMS) for creating and managing educational content.
 - User registration and authentication system.
 - User roles and permissions management.
@@ -13,7 +13,7 @@ Educa is a Django project aimed at building an e-learning platform with a custom
 - Discussion forums for collaborative learning.
 - Responsive and user-friendly interface.
 
-# Installation
+## Installation
 To install and set up Educa on your local machine, follow these steps:
 - Clone the repository:
     git clone https://github.com/LaxmansAryan/EDUCADjangoLearningPlatform.git
@@ -26,10 +26,11 @@ To install and set up Educa on your local machine, follow these steps:
     
 - Activate the virtual environment:
 
-For Windows:
-.\env\Scripts\activate
-For macOS/Linux:
-source env/bin/activate
+   For Windows:
+      .\env\Scripts\activate
+
+   For macOS/Linux:
+      source env/bin/activate
 
 - Install the project dependencies:
     pip install -r requirements.txt
@@ -46,7 +47,7 @@ source env/bin/activate
 
 
 
-# Usage
+## Usage
 Once the Educa application is up and running, follow these steps to get started:
 - Open your web browser and navigate to the application URL.
 - Create an account or log in using your existing credentials.
@@ -56,7 +57,7 @@ Once the Educa application is up and running, follow these steps to get started:
 - Monitor the progress of enrolled users and track their completion status.
 - Engage in discussions and collaborate with other users through the forums.
 
-# Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to the Educa project, please follow these guidelines:
 
 - Fork the repository and create a new branch.
