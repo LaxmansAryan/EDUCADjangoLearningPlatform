@@ -101,3 +101,6 @@ GitHub: LaxmansAryan
 
 <img width="960" alt="10" src="https://github.com/LaxmansAryan/EDUCADjangoLearningPlatform/assets/102072945/b0bc292b-f9ef-4273-851d-de324e16b60e">
 
+- Student chat room
+<img width="960" alt="2" src="https://github.com/LaxmansAryan/EDUCADjangoLearningPlatform/assets/102072945/d0c9f5ea-3b87-4c65-9247-1fde96815f54">
+
